@@ -50,13 +50,5 @@ difficulties in doing the tasks:
 7. Implementing the Skybox:
 	Adding a skybox to create an immersive environment was challenging due to the need for correctly mapping and aligning the textures on a large cube surrounding the scene. This required ensuring there were no visible seams or distortions in the textures, and managing the performance impact of rendering such a large element in the scene. Additionally, the size of the scenario necessitated the temporary disabling of textures, adding another layer of complexity to managing the skybox effectively.
 
-| Name        | ID                   | Work                                                                    |
-|-------------|-----------------|---------------------------------------------------------|
-| 吕君豪      | 2130026100     | object interaction, floor, robot movement, demo  |
-| 廖皆成      | 2130026083     | house building, floor, readme report, skybox         |
-| 袁一琛      | 2130026190     | hamburger and cola building, demo                      |
-| 何时         | 2130026041     | robot and cloud movement, view transition          |
-
-
 
 
